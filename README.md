@@ -1,4 +1,4 @@
-# Cypress UI Ecommerce Automation Readme
+# Cypress REST API Automation Readme
 
 This project demonstrates how to perform REST API automation testing using Cypress. Cypress is a powerful JavaScript end-to-end testing framework that can also be used for API testing.
 
